@@ -16,7 +16,7 @@ Período: 5º semestre (Noturno)
 
 ## Autores
 
-- Maycon Vinicius de Oliveira   
+- Maycon Vinicius de Oliveira  
 - Nicolas Ferreira Silva  
 - Arthur Carvalho de Oliveira  
 
@@ -30,10 +30,10 @@ Desenvolver uma aplicação simples que permita ao usuário compreender o funcio
 
 ## Tarefas
 
-Elaboração da forma de resolução: Arthur - Nicolas - Maycon
-Programação: Nicolas
-Documentação: Maycon - Arthur
-Testes: Nicolas - Arthur - Maycon
+**Elaboração da forma de resolução:** Arthur - Nicolas - Maycon\
+**Programação:** Nicolas\
+**Documentação:** Maycon - Arthur\
+**Testes:** Nicolas - Arthur - Maycon
 
 ---
 
@@ -61,5 +61,5 @@ Testes: Nicolas - Arthur - Maycon
 
 - **Linguagem:** Python  
 - **Bibliotecas:**
-  - `sympy` → validação de números primos  
-  - `math` → operações matemáticas (MDC, etc.)
+  - **sympy** -> validação de números primos  
+  - **math** -> operações matemáticas (MDC, etc.)
